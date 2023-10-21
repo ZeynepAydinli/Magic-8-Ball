@@ -10,7 +10,4 @@ I would like to thank everyone involved in the training.
 
 *[Certificate of "Software 101"](https://microfon.co/ogrenci/sertifika?cert=yazilim-101)*,
 
-![Certificate of Software 101](https://microfon.co/ogrenci/sertifika?cert=yazilim-101)
-
-
 *Created with CodeSandbox*
