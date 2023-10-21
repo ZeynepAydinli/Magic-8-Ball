@@ -9,5 +9,3 @@ I would like to thank everyone involved in the training.
 *https://9snh6d.csb.app/*
 
 *[Certificate of "Software 101"](https://github.com/ZeynepAydinli/Magic-8-Ball/blob/main/Certificate%20of%20Software%20101%20.jpg)*,
-
-*Created with CodeSandbox*
