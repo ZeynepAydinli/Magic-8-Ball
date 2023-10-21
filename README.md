@@ -8,8 +8,6 @@ I would like to thank everyone involved in the training.
 
 *https://9snh6d.csb.app/*
 
-<img src="https://github.com/ZeynepAydinli/Magic-8-Ball/blob/main/Certificate%20of%20Software%20101%20.jpg" height="500">
-
-*[Certificate of "Software 101"](https://microfon.co/ogrenci/sertifika?cert=yazilim-101)*,
+*[Certificate of "Software 101"](https://github.com/ZeynepAydinli/Magic-8-Ball/blob/main/Certificate%20of%20Software%20101%20.jpg)*,
 
 *Created with CodeSandbox*
