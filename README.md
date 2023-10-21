@@ -10,7 +10,7 @@ I would like to thank everyone involved in the training.
 
 *[Certificate of "Software 101"](https://microfon.co/ogrenci/sertifika?cert=yazilim-101)*,
 
-![Certificate of Software 101](https://github.com/ZeynepAydinli/Magic-8-Ball/files/13060687/Certificate.of.Software.101.pdf)
+![Certificate of Software 101](https://microfon.co/ogrenci/sertifika?cert=yazilim-101)
 
 
 *Created with CodeSandbox*
